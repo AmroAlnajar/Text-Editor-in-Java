@@ -68,6 +68,13 @@ local.properties
 # STS (Spring Tool Suite)
 .springBeans
 
+### Eclipse Patch ###
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
 # Code Recommenders
 .recommenders/
 
