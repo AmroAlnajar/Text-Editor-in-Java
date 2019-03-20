@@ -4,3 +4,7 @@ A mini project consisting of a text editor that can check spelling, open and sav
 
 
 
+
+
+
+![alt text](http://i64.tinypic.com/2lcnt7b.png)
